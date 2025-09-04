@@ -1,6 +1,8 @@
+import DisplayUser from "./displayUser"
+
 const App = () => {
   return (
-    <div>ep3</div>
+    <DisplayUser/>
   )
 }
 
