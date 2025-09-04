@@ -6,9 +6,9 @@ const Calculation = () => {
         <h3>Danh sách kết quả</h3>
         <ul>
             <li>{a} + {b} = {a + b}</li>
-            <li>{a - b}</li>
-            <li>{a * b}</li>
-            <li>{a / b}</li>
+            <li>{a} - {b} = {a - b}</li>
+            <li>{a} * {b} = {a * b}</li>
+            <li>{a} / {b} = {a / b}</li>
         </ul>
         </>
     )
