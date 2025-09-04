@@ -9,7 +9,8 @@ import { createRoot } from 'react-dom/client'
 // import App from './components/ep4/ep4.tsx'
 // import App from './components/ep5/ep5.tsx'
 // import App from './components/ep6/ep6.tsx'
-import App from './components/ep7/ep7.tsx'
+// import App from './components/ep7/ep7.tsx'
+import App from './components/ep8/ep8.tsx'
 
 createRoot(document.getElementById('root')!).render(
   <StrictMode>
